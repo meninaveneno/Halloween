@@ -61,7 +61,7 @@ background-clip: text;
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
-    background-image: url("https://vignette.wikia.nocookie.net/utanoprincesama/images/5/57/Camus_S4_E1.png/revision/latest?cb=20161003040206");
+    background-image: url("https://ic.pics.livejournal.com/raggie92/20885199/62900/62900_600.png");
 	
 }
 #user-rollover.id-21755082 .thumb .avi {
@@ -94,6 +94,48 @@ background-clip: text;
 }
 #user-rollover.id-23246837 .thumb .avi {
     background: url(https://media1.tenor.com/images/f31986e941238a30c7d2128e3b9092b9/tenor.gif) center center / 180px no-repeat !important;
+}
+
+/* Sunekuro */ 
+[data-cid^="1143269-"] .badge-box .bdg,
+#user-rollover.id-1143269 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("http://pm1.narvii.com/6978/bc8063b3f122d91f1a400ddc0aaeae7ed43f2640r1-369-383v2_uhq.jpg");
+	
+}
+#user-rollover.id-1143269 .thumb .avi {
+    background: url(http://pa1.narvii.com/6879/a270125d775d1c8c98de32c2d1be49d10c646033r1-1080-609_00.gif) center center / 180px no-repeat !important;
+}
+
+/* Tremplanista */ 
+[data-cid^="45292674-"] .badge-box .bdg,
+#user-rollover.id-45292674 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://66.media.tumblr.com/d62d63a042161eba58bd3ae321fb89c4/tumblr_okirb9ydYQ1w1qyevo4_250.png");
+	
+}
+#user-rollover.id-45292674 .thumb .avi {
+    background: url(https://i.pinimg.com/originals/73/c7/52/73c75239af4bed9b32cbd39ca5b659cd.gif) center center / 180px no-repeat !important;
+}
+
+/* KingHarem */ 
+[data-cid^="4796680-"] .badge-box .bdg,
+#user-rollover.id-4796680 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("http://images6.fanpop.com/image/photos/41400000/-Jisoo-Icons-jisoo-blackpink-41461907-200-200.png");
+	
+}
+#user-rollover.id-4796680 .thumb .avi {
+    background: url(https://media1.tenor.com/images/a338701e38a60a15e2e2d2fe99ae6056/tenor.gif?itemid=9473866) center center / 180px no-repeat !important;
 }
 
 /* Tsukasa */ 
